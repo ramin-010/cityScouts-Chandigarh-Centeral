@@ -18,7 +18,6 @@
 ### Live Demos
 - **Frontend**: [city-scouts-frontend.vercel.app](https://city-scouts-frontend.vercel.app/)
 - **Backend API**: [cityscouts-backend.onrender.com](https://cityscouts-backend.onrender.com)
-- **API Documentation**: [View Docs](https://documenter.getpostman.com/view/your-doc-link)
 
 ## 🌟 Features
 
