@@ -4,7 +4,7 @@
 [![Frontend Status](https://img.shields.io/website?down_message=offline&label=Frontend&up_message=Live&url=https%3A%2F%2Fcity-scouts-frontend.vercel.app%2F)](https://city-scouts-frontend.vercel.app/)
 [![Backend Status](https://img.shields.io/website?down_message=offline&label=Backend%20API&up_message=Live&url=https%3A%2F%2Fcityscouts-backend.onrender.com)](https://cityscouts-backend.onrender.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ramin-010/cityScouts-Chandigarh/pulls)
-[![GitHub stars](https://img.shields.io/github/stars/ramin-010/cityScouts-Chandigarh?style=social)](https://github.com/ramin-010/cityScouts-Chandigarh/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/ramin-010/cityScouts-Chandigarh?style=social)](https://github.com/ramin-010/cityScouts-Chandigarh-Centeral)
 
 ## 🔗 Quick Links
 
