@@ -6,6 +6,20 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ramin-010/cityScouts-Chandigarh/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/ramin-010/cityScouts-Chandigarh?style=social)](https://github.com/ramin-010/cityScouts-Chandigarh-Centeral)
 
+## 🖼️ UI Screenshots
+
+<h3>🔍 Home Page &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       👤 Admin Dashboard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;   🔍 Explore Page</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c95ade14-7e6b-4a96-acae-b17180c86cab" alt="Home Page" width="30%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/92812bb8-3ba7-4ee9-bcdf-7b2869dc3850" alt="Admin Dashboard" width="30%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/ecef2a90-6a63-400c-8598-4df70708297c" alt="Explore Page" width="30%" />
+</p>
+
+
+
 ## 🔗 Quick Links
 
 ### Project Repositories
